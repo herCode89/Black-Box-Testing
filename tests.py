@@ -1,6 +1,5 @@
 import sys
-''' Assignment 2- Black Box Testing
-    By: Frankie Herbert (CS-362)    '''
+''' Assignment 2- Black Box Testing '''
 import unittest
 
 from credit_card_validator import credit_card_validator
