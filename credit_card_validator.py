@@ -1,6 +1,5 @@
 import unittest
-''' Assignment 2- Black Box Testing
-    By: Frankie Herbert (CS-362)    '''
+''' Assignment 2- Black Box Testing '''
 from tests import TestSuite
 import unittest
 
